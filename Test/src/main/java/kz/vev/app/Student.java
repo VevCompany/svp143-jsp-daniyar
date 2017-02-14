@@ -1,4 +1,4 @@
-package MyFirstWebProgram;
+package kz.vev.app;
 
 /**
  * Created by НургалиевД on 14.02.2017.

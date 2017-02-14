@@ -1,4 +1,4 @@
-package MyFirstWebProgram;
+package kz.vev.app;
 
 /**
  * Hello world!

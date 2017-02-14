@@ -1,4 +1,4 @@
-package MyFirstWebProgram;
+package kz.vev.app;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -8,4 +8,8 @@
         <servlet-name>StudentServlet</servlet-name>
         <servlet-class>StudentServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>LoginServlet</servlet-name>
+        <servlet-class>Controller.LoginServlet</servlet-class>
+    </servlet>
 </web-app>

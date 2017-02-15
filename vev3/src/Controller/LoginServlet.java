@@ -27,9 +27,9 @@ public class LoginServlet extends HttpServlet {
 
     @Override
     protected void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        super.service(req, resp);
 
         RequestDispatcher rd = req.getRequestDispatcher("success.jsp");
+        rd.forward(req, resp);
 //    RequestDispatcher rd = req.getRequestDispatcher(getServletConfig().getInitParameter("success.jsp"));
 
 

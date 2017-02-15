@@ -16,6 +16,7 @@ public class StudentServlet extends javax.servlet.http.HttpServlet {
     }
 
     protected void doGet(javax.servlet.http.HttpServletRequest request, javax.servlet.http.HttpServletResponse response) throws javax.servlet.ServletException, IOException {
-
+        RequestDispatcher rd = request.getRequestDispatcher("success1.jsp");
+        rd.forward(request, response);
     }
 }

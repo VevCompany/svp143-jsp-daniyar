@@ -9,7 +9,7 @@
     <file type="web" url="file://$PROJECT_DIR$/vev2" />
     <file type="web" url="file://$PROJECT_DIR$/vev5" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" default="true" assert-keyword="true" jdk-15="true">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="masterDetails">

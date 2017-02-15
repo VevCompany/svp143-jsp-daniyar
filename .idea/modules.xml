@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/svp143-jsp-daniyar.iml" filepath="$PROJECT_DIR$/svp143-jsp-daniyar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test12/test12.iml" filepath="$PROJECT_DIR$/test12/test12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vev/vev.iml" filepath="$PROJECT_DIR$/vev/vev.iml" />
     </modules>
   </component>
 </project>

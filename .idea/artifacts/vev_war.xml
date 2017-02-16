@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="vev:war">
-    <output-path>$PROJECT_DIR$/vev/target</output-path>
-    <root id="archive" name="vev.war">
-      <element id="artifact" artifact-name="vev:war exploded" />
-    </root>
-  </artifact>
-</component>

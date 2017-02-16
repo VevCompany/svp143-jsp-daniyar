@@ -18,7 +18,7 @@ public class Servlet extends HttpServlet {
 
     @Override
     protected void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        RequestDispatcher rd = req.getRequestDispatcher("student.jsp");
-        rd.forward(req,resp);
+        req.setAttribute("name", "KA Shag");
+        req.getRequestDispatcher("student.jsp").forward(req,resp);
     }
 }

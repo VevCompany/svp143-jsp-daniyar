@@ -5,28 +5,24 @@
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/dan1" />
-    <file type="web" url="file://$PROJECT_DIR$/vev" />
+    <file type="web" url="file://$PROJECT_DIR$/untitled" />
+    <file type="web" url="file://$PROJECT_DIR$/untitled10" />
+    <file type="web" url="file://$PROJECT_DIR$/untitled11" />
+    <file type="web" url="file://$PROJECT_DIR$/untitled12" />
+    <file type="web" url="file://$PROJECT_DIR$/untitled123" />
+    <file type="web" url="file://$PROJECT_DIR$/VEV" />
     <file type="web" url="file://$PROJECT_DIR$/vev1" />
     <file type="web" url="file://$PROJECT_DIR$/vev2" />
     <file type="web" url="file://$PROJECT_DIR$/vev5" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" default="true" assert-keyword="true" jdk-15="true">
-    <output url="file://$PROJECT_DIR$/out" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/untitled12/pom.xml" />
+      </list>
+    </option>
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" default="false" assert-keyword="true" jdk-15="true">
+    <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

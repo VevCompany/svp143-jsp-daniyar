@@ -11,12 +11,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="untitled12" />
+        <module name="robot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="dan1" target="1.5" />
       <module name="kz.vev.app" target="1.5" />
+      <module name="robot" target="1.5" />
       <module name="Test" target="1.5" />
       <module name="untitled" target="1.5" />
       <module name="untitled10" target="1.5" />

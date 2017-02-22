@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring6/Spring6.iml" filepath="$PROJECT_DIR$/Spring6/Spring6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robot/Spring7.iml" filepath="$PROJECT_DIR$/robot/Spring7.iml" />
       <module fileurl="file://$PROJECT_DIR$/robot/robot.iml" filepath="$PROJECT_DIR$/robot/robot.iml" />
       <module fileurl="file://$PROJECT_DIR$/svp143-jsp-daniyar.iml" filepath="$PROJECT_DIR$/svp143-jsp-daniyar.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled13/untitled13.iml" filepath="$PROJECT_DIR$/untitled13/untitled13.iml" />
